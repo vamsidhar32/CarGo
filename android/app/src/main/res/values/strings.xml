@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<resources>
+    <string name="facebook_app_id">332818352867521</string>
+    <string name="fb_login_protocol_scheme">fb332818352867521</string>
+    <string name="facebook_client_token">764fee4b26f4316b44eb1279f76404b9</string>
+    <string name="app_name">"CarGoo"</string>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588821933386",
+    "project_id": "cargo-2ef3b",
+    "storage_bucket": "cargo-2ef3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588821933386:android:51bafdfd87b8ef6bdfe5b3",
+        "android_client_info": {
+          "package_name": "com.mcqlive.auto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfDEk7zBszbdCO4s7etLPQZz7EgP3qhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
